@@ -1,0 +1,1 @@
+{"filename"=>"../dictionary.txt", "max_guesses"=>6, "total_guesses"=>2, "incorrect_guesses"=>["a", "i"], "already_guessed"=>["e", "a", "i", "o"], "answer"=>{"e"=>[2], "o"=>[0, 5]}, "random_word"=>"overfond", "board"=>["o", "_ ", "e", "_ ", "_ ", "o", "_ ", "_ "]}
